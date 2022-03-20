@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tablo</string>
+    <string name="juventusButton">Juventus</string>
+    <string name="barcelonaButton">Barcelona</string>
+    <string name="reset">Reset</string>
+</resources>
